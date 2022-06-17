@@ -1,0 +1,16 @@
+Apples = 31$
+Bananas = 44$
+Oranges = 55$
+Grapes = 34$
+Melon = 34$
+Berries = 41$
+Lettuce = 44$
+Tomatoes = 34$
+Garlic = 43$
+Potatoes = 34$
+Carrots = 43$
+Cucumber = 53$
+Avocado = 66$
+Brocolli = 55$
+Spinach = 32$
+Avocado = 23$
